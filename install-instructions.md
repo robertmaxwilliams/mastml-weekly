@@ -15,7 +15,7 @@
 9. `python setup.py install`
 10. `cd examples`
 11. `python ../MASTML.py example_input.conf`
-12. open index.html and see your pretty picture
+12. open `index.html` and see your pretty picture
 13. So easy!!
 
 #### Hack for MacOS
