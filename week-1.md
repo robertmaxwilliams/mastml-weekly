@@ -1,6 +1,8 @@
 # mastml-weekly
 week of 2018 May 14-21
 
+## Daily Reports
+
 ### Monday
 - We installed working MASTML on Luke's laptop:
   * Viewed some ipython notebooks, but got errors
@@ -27,7 +29,13 @@ week of 2018 May 14-21
 - Read some of the source and saw how sklearn models are used interchangably
 - It seems that there are many classification models already in place?
 
-**Current goal:** run kernel ridge regression on Boston Housing
+## Current goals:
+
+- [X] run mastml hello world
+
+- [ ] run kernel ridge regression on Boston Housing
+
+- [ ] replace build docs with our updated instructions
 
 ## Work Hours
 
