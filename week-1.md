@@ -11,3 +11,12 @@ week of 2018 May 14-21
 - Tried to build from scratch in a docker image, steps are in `install-instuctions.md`, but they are imperfect and overcomplex
 
 - Used the dell ubunutu laptop and started building conda on there to get a better grasp in how to build mast-ml
+
+### Tuesday
+- Meeting with Ryan
+  * Gave use a rundown of the current structure of the project
+  * Wants us to not worry about integration, just make stuff
+  * The project currectly has lots of regression options, but no classification, so we can do that
+  * Use scikit-learn and maybe keras
+  * Kernel ridge regression is a good place to start for using the package
+  * Boston Housing dataset is a good one
