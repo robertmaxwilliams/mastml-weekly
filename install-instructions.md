@@ -1,18 +1,25 @@
 ### Luke Miles and Max Williams instructions
+
 #### for installing MAST-ML on Ubuntu
+
 1. install conda
 2. make an empty environment
   `conda create --name testml`
 3. Enter the environment
   `source activate testml`
-4. `conda install python`
+4. `conda install python nbformat`
 5. (make sure it's version 3)
 6. git checkout the good branch
-7. `python setup.py build`
-8. `python setup.py install`
-9. `cd examples`
-9. `python ../MASTML.py example_input.conf`
-11. open index.html and see your pretty picture
-12. So easy!!
+7. If you're on MacOS, see section **Hack for MacOS** below.
+8. `python setup.py build`
+9. `python setup.py install`
+10. `cd examples`
+11. `python ../MASTML.py example_input.conf`
+12. open index.html and see your pretty picture
+13. So easy!!
 
-__Note__: these instructions don't work on Mac. They've only passed on Ubuntu. On Mac, `step 9` failes out asking for the system's python, but the system's python makes errors for `step 7`
+#### Hack for MacOS
+Copied from https://stackoverflow.com/questions/21784641/installation-issue-with-matplotlib-python
+
+I assume you have installed the pip matplotlib, there is a directory in you root called `~/.matplotlib`.
+Create a file `~/.matplotlib/matplotlibrc` there and add the following code: `backend: TkAgg`
