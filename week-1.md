@@ -25,8 +25,12 @@ week of 2018 May 14-21
   * Gained some understanding of the progress of a person who works on this project
 - Built on mac and updated build instructions
 - Read some of the source and saw how sklearn models are used interchangably
+- It seems that there are many classification models already in place?
+
+**Current goal:** run kernel ridge regression on Boston Housing
 
 ## Work Hours
+
 Day | Luke hours | Max hours
 --- | --- | ---
 Monday | 8:00 - 4:15 | 8:00 - 4:15 
