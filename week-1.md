@@ -23,7 +23,8 @@ week of 2018 May 14-21
   * Boston Housing dataset is a good one
 - Reading [Zuf's work log](https://docs.google.com/document/d/1ruQg7kuH_oTWwapB54wWx1ruEYSxhBZgCOugDtwRh4k/edit?usp=sharing)
   * Gained some understanding of the progress of a person who works on this project
-
+- Built on mac and updated build instructions
+- Read some of the source and saw how sklearn models are used interchangably
 
 ## Work Hours
 Monday 8-4:15
