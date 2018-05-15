@@ -27,5 +27,10 @@ week of 2018 May 14-21
 - Read some of the source and saw how sklearn models are used interchangably
 
 ## Work Hours
-Monday 8-4:15
-Tuesday Max: 8:15-4, luke: 8-4
+Day | Luke hours | Max hours
+--- | --- | ---
+Monday | 8:00 - 4:15 | 8:00 - 4:15 
+Tuesday | 8:00 - 4:00 | 8:15 - 4:00
+Wednesday | | 
+Thursday | | 
+Friday | | 
