@@ -1,6 +1,6 @@
 ### Luke Miles and Max Williams instructions
 
-#### for installing MAST-ML on Ubuntu
+#### for installing MAST-ML, tested on Ubuntu and Mac
 
 1. install conda
 2. make an empty environment
