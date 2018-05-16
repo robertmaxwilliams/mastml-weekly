@@ -43,7 +43,7 @@ week of 2018 May 14-21
 
 - [x] run mastml hello world
 - [ ] run kernel ridge regression on Boston Housing
-- [ ] replace build docs with our updated instructions
+- [x] replace build docs with our updated instructions
 
 ## Work Hours
 
