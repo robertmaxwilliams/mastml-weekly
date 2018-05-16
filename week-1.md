@@ -29,12 +29,20 @@ week of 2018 May 14-21
 - Read some of the source and saw how sklearn models are used interchangably
 - It seems that there are many classification models already in place?
 
+### Wednesday
+
+- studied Wasserman's All of Statistics
+- Printed out a tree of ryan's branch, with tests and builds cut out
+- Read through Ryan's summary of the important files and of classification methods we can implement
+- Try to modify example `.conf` file, but we got errors
+- Try to run unit tests (Ryan says not to worry about it, he's still developing that stuff)
+- Make our branch, luke-max
+- update the readme
+
 ## Current goals:
 
-- [X] run mastml hello world
-
+- [x] run mastml hello world
 - [ ] run kernel ridge regression on Boston Housing
-
 - [ ] replace build docs with our updated instructions
 
 ## Work Hours
