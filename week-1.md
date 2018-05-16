@@ -15,7 +15,7 @@ week of 2018 May 14-21
 - Used the dell ubunutu laptop and started building conda on there to get a better grasp in how to build mast-ml
 
 ### Tuesday
-- Built MAST-ML on ubununtu laptop and it was actually good this time, one 10 steps instead of thirty. The new steps are in `install-instructions.md` and should be usable from any clean linux box.
+- Built MAST-ML on ubununtu laptop and it was actually good this time, one 10 steps instead of thirty. The new steps are in `install-instructions.md` (since deleted and made part of mastml docs) and should be usable from any clean linux box.
 - Meeting with Ryan
   * Gave use a rundown of the current structure of the project
   * Wants us to not worry about integration, just make stuff
