@@ -39,11 +39,16 @@ week of 2018 May 14-21
 - Make our branch, luke-max
 - update the readme
 
+### Thursday
+
+- studied Wasserman's All of Statistics
+
 ## Current goals:
 
 - [x] run mastml hello world
-- [ ] run kernel ridge regression on Boston Housing
+- [ ] (cancelled) run kernel ridge regression on Boston Housing
 - [x] replace build docs with our updated instructions
+- [ ] build keras model and fold it into mast-ml
 
 ## Work Hours
 
@@ -51,6 +56,6 @@ Day | Luke hours | Max hours
 --- | --- | ---
 Monday | 8:00 - 4:15 | 8:00 - 4:15 
 Tuesday | 8:00 - 4:00 | 8:15 - 4:00
-Wednesday | | 
+Wednesday | 8:00 - 4:00 | 8:00 - 4:00
 Thursday | | 
 Friday | | 
