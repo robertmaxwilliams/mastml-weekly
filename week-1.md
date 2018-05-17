@@ -37,11 +37,12 @@ week of 2018 May 14-21
 - Try to modify example `.conf` file, but we got errors
 - Try to run unit tests (Ryan says not to worry about it, he's still developing that stuff)
 - Make our branch, luke-max
-- update the readme
+- Update the readme
 
 ### Thursday
 
-- studied Wasserman's All of Statistics
+- Studied **Wasserman's** _All of Statistics_
+- Ran classification examples for  tensorflow and keras in a jupyter notebook
 
 ## Current goals:
 
@@ -57,5 +58,5 @@ Day | Luke hours | Max hours
 Monday | 8:00 - 4:15 | 8:00 - 4:15 
 Tuesday | 8:00 - 4:00 | 8:15 - 4:00
 Wednesday | 8:00 - 4:00 | 8:00 - 4:00
-Thursday | | 
+Thursday | 8:00 - 4:00 | 
 Friday | | 
