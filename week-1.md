@@ -31,7 +31,7 @@ week of 2018 May 14-21
 
 ### Wednesday
 
-- studied Wasserman's All of Statistics
+- studied Wasserman's _All of Statistics_
 - Printed out a tree of ryan's branch, with tests and builds cut out
 - Read through Ryan's summary of the important files and of classification methods we can implement
 - Try to modify example `.conf` file, but we got errors
@@ -41,7 +41,7 @@ week of 2018 May 14-21
 
 ### Thursday
 
-- Studied **Wasserman's** _All of Statistics_
+- Studied Wasserman's _All of Statistics_
 - Ran classification examples for  tensorflow and keras in a jupyter notebook
 - Talked with Dr. Finkel,
   - he thinks it could be a good use of time to go through the Coursera ML course,
@@ -50,6 +50,11 @@ week of 2018 May 14-21
 
 
 ### Friday
+- No Wasserman because we just did a half day
+- Removed some unnecessary files from `max-luke` branch
+- A little refactoring of `MASTMLInitializer.py`
+- Added file and directory descriptions to `README.md`
+- Tried to fix bug with Max not being an employee and the start date being wrong
 
 ## Current goals:
 
