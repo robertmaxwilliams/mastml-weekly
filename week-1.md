@@ -43,6 +43,13 @@ week of 2018 May 14-21
 
 - Studied **Wasserman's** _All of Statistics_
 - Ran classification examples for  tensorflow and keras in a jupyter notebook
+- Talked with Dr. Finkel,
+  - he thinks it could be a good use of time to go through the Coursera ML course,
+  - he showed us his model of program flow of mastml and gave us tips on how to make a module
+- investigated places where models are defined
+
+
+### Friday
 
 ## Current goals:
 
@@ -58,5 +65,5 @@ Day | Luke hours | Max hours
 Monday | 8:00 - 4:15 | 8:00 - 4:15 
 Tuesday | 8:00 - 4:00 | 8:15 - 4:00
 Wednesday | 8:00 - 4:00 | 8:00 - 4:00
-Thursday | 8:00 - 4:00 | 
-Friday | | 
+Thursday | 8:00 - 4:00 | 8:00 - 4:00
+Friday | 8:00 - | 8:00 - 
