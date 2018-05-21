@@ -6,7 +6,8 @@ week of 2018 May 21-25
 
 ### Monday
 
-- did stuff
+- Luke continues mercilessly refactoring root level `.py` files
+- Max tries to get unit tests to pass on Ryan's branch
 
 ## Work Hours
 
