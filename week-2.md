@@ -15,3 +15,4 @@ Week of 2018 May 21-25
 Day | Luke hours | Max hours
 --- | --- | ---
 Monday | 8:00 - 4:00 | 8:00 - 4:00
+Tuesday | 8:00 - 4:15 | 8:00 - 4:30
