@@ -21,6 +21,16 @@ Week of 2018 May 21-25
 - First unit test passes
 - Luke destroys miles of code, improving readability and flexibility
 
+### Thursday
+
+- Max seems to have discovered a flaw/limitation in MASTMLInitializer.py:
+  - `ConfigFileParser` is initialized with a filename
+  - then you call `.get_config_dict` with a path
+  - This is awkward, but can be worked with if you know what's going on. The docstrings lie
+  and say that you initialize with an object, even though it needs a filename. This should also be fixed.
+  - However, the methods that subclass `ConfigFileParser` always call `.get_config_dict`
+  with the current working directory, making it awkward to call config files in other folders
+
 ## Work Hours
 
 Day | Luke hours | Max hours
