@@ -44,7 +44,9 @@ Week of 2018 May 21-25
 - Solved some ch 2 exercises in Wasserman
 - Began trying to integrate Tuesday's classifier model into main MASTML flow
   - (spent most of day on this)
-  - copied from `SingleFit.py`
+  - basically we are trying to make another SingleFit.py, which is for classifiers instead of regression
+  - This is our most important task right now
+  - Called a `spike` in extreme programming speak
 - Finished removing `errors_present` and merged `unit_tests_fixes` branch with `max-luke` branch
 - Spent most of workday at picnic table outside under shade tree
 
