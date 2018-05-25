@@ -38,6 +38,16 @@ Week of 2018 May 21-25
 - Converted `sys.exit` to python exceptions.
 - Added error created conf files for tests.
 - Started removing `errors_present` thing, TODO finished that tomorrow.
+
+### Friday
+
+- Solved some ch 2 exercises in Wasserman
+- Began trying to integrate Tuesday's classifier model into main MASTML flow
+  - (spent most of day on this)
+  - copied from `SingleFit.py`
+- Finished removing `errors_present` and merged `unit_tests_fixes` branch with `max-luke` branch
+- Spent most of workday at picnic table outside under shade tree
+
 ## Work Hours
 
 Day | Luke hours | Max hours
@@ -46,3 +56,4 @@ Monday | 8:00 - 4:00 | 8:00 - 4:00
 Tuesday | 8:00 - 4:15 | 8:00 - 4:30
 Wednesday | 8:00 - 7:00 | 8:00 - 7:00
 Thursday | 8:00 - 4:00 | 8:00 - 4:00
+Friday | 8:00 - 4:00 | 8:00 - 4:00
