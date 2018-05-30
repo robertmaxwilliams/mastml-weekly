@@ -18,6 +18,8 @@ Week of 2018 May 21-25
 - Almost got confusion matrix to plot.
   - Succeeded!!
   - In your CSV, you CANNOT PUT SPACES AFTER YOUR COMMAS (or they end up in the column names and break it down.)
+- names of test are delimted with underscores and the first one is the key used to group them for Favorites.
+
 ## Work Hours
 
 Day | Luke hours | Max hours
