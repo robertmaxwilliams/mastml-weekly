@@ -37,3 +37,4 @@ Day | Luke hours | Max hours
 Monday | holiday | holiday
 Tuesday | 8:00 - 3:00 | 8:00 - 3:00
 Wednesday | 1:00 - 9:00 | 1:00 - 9:00
+Thursday | 8:00 - 6:30 | 8:00 - 6:30
