@@ -19,9 +19,13 @@ Week of 2018 May 21-25
   - Succeeded!!
   - In your CSV, you CANNOT PUT SPACES AFTER YOUR COMMAS (or they end up in the column names and break it down.)
 - names of test are delimted with underscores and the first one is the key used to group them for Favorites.
+- Now there is a grand total of 5 classification models. 
+- TODO add cross validation for classification (use sklearn tool)
 
 ## Work Hours
 
 Day | Luke hours | Max hours
 --- | --- | ---
-Monday | 8:00 - 4:00 | 8:00 - 4:00
+Monday | holiday | holiday
+Tuesday | 8:00 - 3:00 | 8:00 - 3:00
+Wednesday | 1:00 - 9:00 | 1:00 - 9:00
