@@ -34,7 +34,12 @@ Week of 2018 May 21-25
 
 Day | Luke hours | Max hours
 --- | --- | ---
-Monday | holiday | holiday
-Tuesday | 8:00 - 3:00 | 8:00 - 3:00
-Wednesday | 1:00 - 9:00 | 1:00 - 9:00
-Thursday | 8:00 - 6:30 | 8:00 - 6:30
+Monday | holiday (free 8h) | holiday (free 8h)
+Tuesday | 8:00 - 3:00 (7h) | 8:00 - 3:00 (7h)
+Wednesday | 1:00 - 9:00 (8h) | 1:00 - 9:00 (8h)
+Thursday | 8:00 - 6:30 (10h 30m) | 8:00 - 6:30 (10h 30m)
+Friday | 9:00 - 4:30 (7h 30m) | 9:00 - 4:30 (7h 30m)
+Total | 41h | 41h
+
+Extra this week: 1h, 1h
+
