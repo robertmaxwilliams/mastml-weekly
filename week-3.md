@@ -30,6 +30,22 @@ Week of 2018 May 21-25
   - Having the models choose their own data gets really involved so we won't do it now. It seems that doing this without redoing the way conf files are layed out would be messy/impossible.
 - Luke made a quick iPython notebook on the web that can run mastml and display the figures.
 
+### Friday
+
+- Added bool `configdict['General Setup']['is_classification']` that is set based on name of models.
+  - SingleFit takes this as an argument `is_classification` that defaults to false, and
+  uses it to choose which kinds of plot to do.
+- Made a check for all models being of the same type (classifier or regressor).
+  - This makes it simple to implement both types of models without recreating SingleFit and its subclasses
+- Removed the check that the csv column conforms to class/regress naming scheme.
+- TODO Fix "favorites" logic so that it recognizes that there are different plots to be shown
+
+- Pulled ConfigFileValidator into its own file so that it can be more pythonic.
+
+- maybe TODO: shoot, I forgot.
+
+- Quick start for next week: After fixing the plots, get to work on making data splits work, now that we have the infrastructure for telling classifiers and regressors apart
+
 ## Work Hours
 
 Day | Luke hours | Max hours
