@@ -54,8 +54,8 @@ Monday | holiday (free 8h) | holiday (free 8h)
 Tuesday | 8:00 - 3:00 (7h) | 8:00 - 3:00 (7h)
 Wednesday | 1:00 - 9:00 (8h) | 1:00 - 9:00 (8h)
 Thursday | 8:00 - 6:30 (10h 30m) | 8:00 - 6:30 (10h 30m)
-Friday | 9:00 - 4:30 (7h 30m) | 9:00 - 4:30 (7h 30m)
-Total | 41h | 41h
+Friday | 9:00 - 6:00 (9h) | 9:00 - 4:30 (7h 30m)
+Total | 42h 30m | 41h
 
 Extra this week: 1h, 1h
 
