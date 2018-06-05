@@ -27,7 +27,7 @@ Week of 2018 June 4-10
 
 Day | Luke hours | Max hours
 --- | --- | ---
-Monday | 8 - 4:30 | 8-5
+Monday | 8 - 4:30 | 8 - 6:15
 Tuesday | | 
 Wednesday | | 
 Thursday | | 
