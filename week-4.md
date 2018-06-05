@@ -6,6 +6,7 @@ Week of 2018 June 4-10
 ## Daily Reports
 
 ### Monday
+
 - Get classification images to show up.
 - Converted html strings into `xml.dom` DOM elements. (more bug-resistant and inspectable)
 - Added new dict for different plots between classification and regression but reuse everything else.
@@ -14,6 +15,10 @@ Week of 2018 June 4-10
  
 ### Tuesday
 
+- Sorta got classification working with data splits
+- Had good Skype call with Ryan
+- Started on demo server where user uploads `.csv` and `.conf` files then spits out `index.html`
+- Investigating ways to automatically make a conf template and documentation (better documentation soon hopefully!)
 
 ### Wednesday
 
@@ -28,7 +33,7 @@ Week of 2018 June 4-10
 Day | Luke hours | Max hours
 --- | --- | ---
 Monday | 8 - 4:30 | 8 - 6:15
-Tuesday | | 
+Tuesday | 8 - 4 | 
 Wednesday | | 
 Thursday | | 
 Friday | | 
