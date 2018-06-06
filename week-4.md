@@ -22,6 +22,12 @@ Week of 2018 June 4-10
 
 ### Wednesday
 
+- Max learned more about matplotlib
+- Max came up with general way to decide if model is classifier or regressor
+  - https://gist.github.com/robertmaxwilliams/4bcfdfe347488a9fe57b69c8de6d99f7
+- Luke investigated possible server-side issues with running mastml
+  - Flask may be our friend...
+  - There are advantages to conf file stuff over Jupyter notebooks
 
 ### Thursday
 
@@ -34,7 +40,7 @@ Day | Luke hours | Max hours
 --- | --- | ---
 Monday | 8 - 4:30 | 8 - 6:15 (10h 15m)
 Tuesday | 8 - 4 | 8 - 10 (14h)
-Wednesday | | 
+Wednesday | 8 - 4:45 | 8 - 
 Thursday | | 
 Friday | | 
 Saturday | | 
