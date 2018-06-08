@@ -32,8 +32,12 @@ Week of 2018 June 4-10
 
 ### Thursday
 
+- Testing out ideas for classifier pipelines and deciding best way to do control flow...
+- Learning more about sklearn's features...
 
 ### Friday
+
+- Learning more about sklearn's features...
 
 ## Work Hours
 
@@ -42,8 +46,7 @@ Day | Luke hours | Max hours
 Monday | 8 - 4:30 | 8 - 6:15 (10h 15m)
 Tuesday | 8 - 4 | 8 - 10 (14h)
 Wednesday | 8 - 4:45 | 8 - 7 (11h))
-Thursday | | 8 - 12 (4h)
-Friday | | (0h)
+Thursday | 8 - 4 (8h) | 8 - 12 (4h)
+Friday | 10-6 (8h) | (0h)
 Saturday | | 
 Total |  | 
-
