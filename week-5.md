@@ -20,13 +20,10 @@ Week of 2018 June 11-16
      - Implementation of cluster CV approach. Have work in conjunction with existing grouped CV test. Have pre-clustering of data done using, e.g. K-means or support vector machine, then do CV by holding out each cluster, training on remaining data and predicting on the left-out cluster
      - Implementation of leave-out-element CV approach: scan material compositions in input data file, build composition object with pymatgen.core.Composition.as_dict(), get list of elements present. Then leave out data for each element, and train on remaining data and predict data of that element.
   
-  Max:
-  
-  - feature selection, generation, and normalization all work with regression and classification
-  
-  Luke:
-  
-  - found that sklearn pipelines might be a worthwhile investment
+Max:
+ - feature selection, generation, and normalization all work with regression and classification
+Luke:
+ - found that sklearn pipelines might be a worthwhile investment
 
 ## Work Hours
 
@@ -34,7 +31,7 @@ Day | Luke hours | Max hours
 --- | --- | ---
 Monday | 9-6 | 8-6:15
 Tuesday | 1-10 | 1-10
-Wednesday | 10:30-6:30 | 9:30-6:30
+Wednesday | 9:30-7 | 10:30-6:30
 Thursday |  |
 Friday | |
 Saturday | |
