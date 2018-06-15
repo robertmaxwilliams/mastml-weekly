@@ -31,6 +31,13 @@ Luke:
 - Talked with Ryan about master conf template, aka project specifications
 - Started trying to use sklearn pipelines to compartmentalize our objects better and get stats and grid search more safely.
 
+### Friday
+
+- Got cluster splitting implemented
+- Classification cross validation is closer to being done
+- Added more test cases and csv files
+- Started integrating sklearn pipelines (improve structure and grid search)
+
 ## Work Hours
 
 Day | Luke hours | Max hours
@@ -39,6 +46,6 @@ Monday | 9-6 | 8-6:15
 Tuesday | 1-10 | 1-10
 Wednesday | 9:30-7 | 10:30-6:30
 Thursday | 8-4:30 | 8-4:30
-Friday | |
+Friday | 10-5:30 | 9:30 - 5:15
 Saturday | |
 Total | |
