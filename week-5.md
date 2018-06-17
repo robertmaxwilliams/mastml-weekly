@@ -47,5 +47,5 @@ Tuesday | 1-10 | 1-10
 Wednesday | 9:30-7 | 10:30-6:30
 Thursday | 8-4:30 | 8-4:30
 Friday | 10-8:50 | 9:30 - 5:15
-Saturday | |
+Saturday | 8 - 4|
 Total | |
