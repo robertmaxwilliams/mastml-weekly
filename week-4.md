@@ -50,6 +50,9 @@ Thursday | 8 - 4 (8h) | 8 - 12 (4h)
 Friday | 10-6 (8h) | (0h)
 Saturday | | 
 Total | 41h 15m | 40h
+
 Excess hours this week: 1h 15m, 0h
+
 Excess from last week: 5h 30m, 1h
+
 Accumulated hours: 6h 45m, 1h
