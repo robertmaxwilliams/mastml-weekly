@@ -43,10 +43,13 @@ Week of 2018 June 4-10
 
 Day | Luke hours | Max hours
 --- | --- | ---
-Monday | 8 - 4:30 | 8 - 6:15 (10h 15m)
-Tuesday | 8 - 4 | 8 - 10 (14h)
-Wednesday | 8 - 4:45 | 8 - 7 (11h))
+Monday | 8 - 4:30 (8h 30m) | 8 - 6:15 (10h 15m)
+Tuesday | 8 - 4 (8h) | 8 - 10 (14h)
+Wednesday | 8 - 4:45 (8h 45min) | 8 - 7 (11h)
 Thursday | 8 - 4 (8h) | 8 - 12 (4h)
 Friday | 10-6 (8h) | (0h)
 Saturday | | 
-Total |  | 
+Total | 41h 15m | 40h
+Excess hours this week: 1h 15m, 0h
+Excess from last week: 5h 30m, 1h
+Accumulated hours: 6h 45m, 1h
