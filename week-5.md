@@ -42,10 +42,16 @@ Luke:
 
 Day | Luke hours | Max hours
 --- | --- | ---
-Monday | 9-6 | 8-6:15
-Tuesday | 1-10 | 1-10
-Wednesday | 9:30-7 | 10:30-6:30
-Thursday | 8-4:30 | 8-4:30
-Friday | 10-8:50 | 9:30 - 5:15
-Saturday | 8 - 4|
-Total | |
+Monday | 9-6 (9h) | 8-6:15 (10h 15m)
+Tuesday | 1-10 (9h) | 1-10 (9h)
+Wednesday | 9:30-7 (9h 30m) | 10:30-6:30 (8h)
+Thursday | 8-4:30 (8h 30m) | 8-4:30 (8h 30m)
+Friday | 10-8:50  (10h 50m) | 9:30 - 5:15 (7h 45m)
+Saturday | 8 - 4 (8h) |
+Total | 54h 50m |  43h 30m
+
+Extra this week: 14h 50m, 3h 30m
+
+Excess from last week: 5h 30m, 1h	
+
+Accumated total: 20h 20m, 4h 30m
