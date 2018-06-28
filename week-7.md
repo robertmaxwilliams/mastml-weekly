@@ -14,3 +14,8 @@ Week of 2018 June 18-24
 
 Max: 9AM-8PM
 Luke: noon-8PM
+
+
+Hmm some data was lost... :(
+
+Wednesday, Luke worked from 11:30AM to 10PM
