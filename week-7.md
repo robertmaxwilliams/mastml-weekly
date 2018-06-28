@@ -18,4 +18,4 @@ Luke: noon-8PM
 
 Hmm some data was lost... :(
 
-Wednesday, Luke worked from 11:30AM to 10PM
+Wednesday, Luke worked from 11:30AM to 11PM
