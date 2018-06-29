@@ -31,6 +31,13 @@ Week of 2018 June 18-24
 + added support for feature selectors that require a model of function
 + Made one of the csv files not executable anymore
 
+### Thursday
+
++ Added Tam's things back in (genetic algo and grid search probably works too)
++ But we haven'st've wrapped it in a command line tool
++ `sudo rm -f /dev/null/`
++ Created 3D ANIMATED HEATMAP SCATTER PLOTS
+
 Mon
 Max: 9AM-8PM
 Luke: noon-8PM
@@ -44,7 +51,7 @@ Max: 10am-7:45pm
 Luke: 11:30-11pm
 
 Thur
-Max: 10:45AM-
-Luke: 1:45-
+Max: 10:45AM-10:30PM
+Luke: 1:45PM-10:30PM
 
 
