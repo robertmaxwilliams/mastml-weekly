@@ -44,6 +44,14 @@ Week of 2018 June 18-24
 + Max addes grouping functionality, and starts hunting down warning messages
 TODO: clustering grouping!
 
+### Weekend
++ -v and -q and -qq etc options implemented to some extent
++ added grouping columns
++ add clustering sections
++ added a group by element thing to feature generation
+
+TODO create data routes for generation features and grouping features
+
 Mon
 Max: 9AM-8PM
 Luke: noon-8PM
