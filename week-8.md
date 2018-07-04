@@ -24,8 +24,10 @@ Week of 2018 June 18-24
 
 
 
-MOnday: 
+Monday: 
 max: 9:30-7:15
 luke: 9:30-7:15
 
-
+Tuesday:
+Max: 8:30AM-6:30PM
+Luke: 8:30AM-11PM
