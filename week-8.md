@@ -22,6 +22,8 @@ Week of 2018 June 18-24
 
 ### Friday
 
++ worked on web server, email stuff is hard.
++ Luke experiments with learning curvel 
 
 
 Monday: 
@@ -31,3 +33,14 @@ luke: 9:30-7:15
 Tuesday:
 Max: 8:30AM-6:30PM
 Luke: 8:30AM-11PM
+
+Wednesday:
+:fireworks:
+
+Thursday:
+Max: 9:30 - 8pm
+Luke: 9:30 - 8pm
+
+Friday:
+Max: 8:30 - 4:30
+Luke: 9:30 - 4:30
