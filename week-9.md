@@ -35,11 +35,18 @@ luke: 9:30-4:00
 
 Tuesday:
 max: 8:45 - 5:15, 7:00pm - 11:30
+
 luke: 8:00 - 5:45 , 8:30pm - 11:30
 
 Wednesday:
 max: 9:30am - 5:00pm
-luke: 
+luke: 9:30am - 10:00pm
+
 Thursday: 
 max: 9:30am - 10:00pm
 luke: 11:00am - 10:00pm
+
+Friday:
+max: 9:15am - 3:45pm
+lukw: 10:15am - 3:45pm
+
