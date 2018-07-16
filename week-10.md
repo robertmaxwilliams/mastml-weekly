@@ -18,7 +18,7 @@ TODONE
   + gave that presentation, none of the above happened
   + updated mastml hours spreadsheet
   + made metrics show up in output without minus or negative
-  + added that metric that Ryan asked for (???)
+  + added that metric that Ryan asked for
   + Did government required training :goberserk:
   
 Words from Dr. Finkel:
@@ -36,5 +36,5 @@ Words from Dr. Finkel:
 ### Friday
 
 Monday: 
-max: 9:00-
-luke: 9:15-
+max: 9:00am - 6:30pm
+luke: 9:15am - 6:30pm
