@@ -46,5 +46,5 @@ max: 9:00am - 6:30pm
 luke: 9:15am - 6:30pm
 
 Tuesday:
-max: 9:30am - 4:15pm
-luke: 9:30am - 4:15pm
+max: 9:30am - 4:30pm
+luke: 9:30am - 4:30pm
