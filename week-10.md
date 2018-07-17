@@ -28,6 +28,12 @@ Words from Dr. Finkel:
 
 ### Tuesday
 
++ Big ol' code review with Ryan
++ Luke leaves to Washington State to visit Aunt and Grandma
++ Luke works on code documentation
++ Luke fixes scoring func bug
++ Max tries to implement testing_only
+
 ### Wednesday
 
 ### Thursday
@@ -38,3 +44,7 @@ Words from Dr. Finkel:
 Monday: 
 max: 9:00am - 6:30pm
 luke: 9:15am - 6:30pm
+
+Tuesday:
+max: 9:30am - 4:15pm
+luke: 9:30am - 4:15pm
