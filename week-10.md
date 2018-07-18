@@ -42,6 +42,11 @@ The other option is to keep a list of "blacklisted" indices, and cut them out at
 
 Oh, we can do it inside of splitters! Perfect!
 
++ added `validation_column` to `GeneralSetup`
++ made target histogram use y feature name as xlabel
++ did co-op evaluation
++ wrote my co-op report
+
 ### Thursday
 
 
@@ -54,3 +59,6 @@ luke: 9:15am - 6:30pm
 Tuesday:
 max: 9:30am - 4:30pm
 luke: 9:30am - 4:30pm
+
+Wednesday:
+max: 9:00am - 4:00pm
