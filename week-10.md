@@ -36,6 +36,12 @@ Words from Dr. Finkel:
 
 ### Wednesday
 
+We want to have a testing only option, where a specific group is used only for validation. You can do that now, sortof, using groups, but that just lets you use that group as test, not really doing complete held out cross validation. What we really need is data taken out at the very beginnning, that can be processed the exact same way as everything else. All of the processing steps (feature generation, normalziation, removing constant columns, etc) need to be a single opertation that can be applied to some data, then reversed on model predictions. This is what sklearn pipelines does but we weren't able to maintain the pipelines paradigm.
+
+The other option is to keep a list of "blacklisted" indices, and cut them out at split time. This will mess with the splitters, sometimes giving empty splits and other issues like that, but won't cause any design headache.
+
+Oh, we can do it inside of splitters! Perfect!
+
 ### Thursday
 
 
