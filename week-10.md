@@ -49,6 +49,7 @@ Oh, we can do it inside of splitters! Perfect!
 
 ### Thursday
 
++ work on pypi package
 
 ### Friday
 
@@ -62,3 +63,6 @@ luke: 9:30am - 4:30pm
 
 Wednesday:
 max: 9:00am - 4:00pm
+
+Thursday:
+max: 10:15 - 
