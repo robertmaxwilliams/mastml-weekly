@@ -51,6 +51,26 @@ Oh, we can do it inside of splitters! Perfect!
 
 + work on pypi package
 
+Fixes on ryan's code:
+
++ https://github.com/uw-cmg/MAST-ML/commit/25b81dd50a5e03634efbf802e6947f0dfa291a7b
+  + That repeated block of code should be a function, easy
++ https://github.com/uw-cmg/MAST-ML/commit/45e81c5fb23c8643fa5b0b936a98dc8a061adf22
+  + should be using path split, not like that 
+  
+Other stuff:
+
++ I accidentally the merge, took some time to correct it
++ Fixed up make_fig_ax so now we don't need gridspec or invisible legends
+
+```
+  + That repeated block of code should be a function, easy
+```
++ did the above again
++ merging is hard when you aren't working side by side all day
++ plot_helper is much uglier now. The added functionality is good, but the addition of redundant parameters to a public function is an issue. 
+
+
 ### Friday
 
 Monday: 
@@ -65,4 +85,4 @@ Wednesday:
 max: 9:00am - 4:00pm
 
 Thursday:
-max: 10:15 - 
+max: 10:15 - 7:30
