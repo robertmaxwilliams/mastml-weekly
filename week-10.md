@@ -68,10 +68,15 @@ Other stuff:
 ```
 + did the above again
 + merging is hard when you aren't working side by side all day
-+ plot_helper is much uglier now. The added functionality is good, but the addition of redundant parameters to a public function is an issue. 
++ Plot helper needs help(er)
 
 
 ### Friday
+
++ Things aren't that bad, I was just frustrated (and hungry) yesterday
++ Made a neat way to get nice plot ticks in general
++ Refactored the max/min stuff
++ Write co-op report
 
 Monday: 
 max: 9:00am - 6:30pm
@@ -85,4 +90,7 @@ Wednesday:
 max: 9:00am - 4:00pm
 
 Thursday:
-max: 10:15 - 7:30
+max: 10:15am - 7:30pm
+
+Friday:
+max: 9:00am - 5:00pm
