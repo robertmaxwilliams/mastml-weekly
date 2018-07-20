@@ -93,4 +93,4 @@ Thursday:
 max: 10:15am - 7:30pm
 
 Friday:
-max: 9:00am - 5:00pm
+max: 9:00am - 6:00pm
